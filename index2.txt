@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alex Training | Performance Coaching</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #000;
+  color: #e5e5e5;
+  line-height: 1.6;
+}
+
+header {
+  padding: 4rem 2rem;
+  text-align: center;
+  border-bottom: 1px solid #111;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: 3px;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+section {
+  padding: 4rem 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+.hero {
+  text-align: center;
+}
+
+.hero h2 {
+  font-size: 2.2rem;
+  color: #22c55e;
+}
+
+.hero p {
+  max-width: 600px;
+  margin: 1rem auto;
+}
+
+.btn {
+  display: inline-block;
+  padding: 14px 28px;
+  background: #22c55e;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 20px;
+  letter-spacing: 1px;
+}
+
+.btn:hover {
+  opacity: 0.85;
+}
+
+.divider {
+  height: 1px;
+  background: #111;
+  margin: 3rem 0;
+}
+
+.card {
+  background: #0a0a0a;
+  padding: 25px;
+  margin: 20px 0;
+  border: 1px solid #111;
+}
+
+.quote {
+  font-style: italic;
+  opacity: 0.8;
+}
+
+footer {
+  text-align: center;
+  padding: 3rem;
+  border-top: 1px solid #111;
+  font-size: 0.9rem;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+  <h1>ALEX TRAINING</h1>
+  <p>Private Performance Coaching</p>
+</header>
+
+<section class="hero">
+  <h2>Built for Athletes Who Refuse Average</h2>
+  <p>
+  This is not a gym. This is not group training.  
+  This is a high-performance system designed for individuals who expect elite results.
+  </p>
+  <a class="btn" href="#apply">Apply for Coaching</a>
+</section>
+
+<section>
+  <h2>The Standard</h2>
+  <div class="card">
+    Speed. Strength. Discipline. Execution.
+  </div>
+  <div class="card">
+    Every program is built with precision and intent.
+  </div>
+  <div class="card">
+    No wasted time. No generic workouts. No excuses.
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<section>
+  <h2>Who This Is For</h2>
+  <div class="card">Athletes serious about performance</div>
+  <div class="card">Individuals who demand structure and accountability</div>
+  <div class="card">Clients ready to commit long-term</div>
+</section>
+
+<div class="divider"></div>
+
+<section>
+  <h2>Results</h2>
+  <div class="card quote">
+    “I became faster, stronger, and more confident in 8 weeks.”
+  </div>
+  <div class="card quote">
+    “This completely changed how I train and perform.”
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<section>
+  <h2>Coaching</h2>
+  <div class="card">
+    <h3>Private Performance Coaching</h3>
+    <p>
+    High-level, individualized training designed for maximum results.
+    </p>
+    <p><strong>Application Only</strong></p>
+  </div>
+
+  <p><strong>Limited client spots available.</strong></p>
+</section>
+
+<div class="divider"></div>
+
+<section id="apply">
+  <h2>Apply</h2>
+  <p>
+  This program is not open to everyone.  
+  Applications are reviewed and accepted selectively.
+  </p>
+
+  <a class="btn" href="YOUR_APPLICATION_FORM_LINK">
+    Submit Application
+  </a>
+</section>
+
+<footer>
+  <p>© 2026 Alex Training</p>
+</footer>
+
+</body>
+</html>
